@@ -10,6 +10,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "mongodb": "^3.4.1",
+    "nodemon": "^2.0.2",
     "react": "16.9.0",
     "react-native": "^0.61.5"
   },
